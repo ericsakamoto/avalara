@@ -1,0 +1,4 @@
+https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs/resources/deployment
+https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs/resources/service
+https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs/resources/ingress
+https://developer.hashicorp.com/terraform/tutorials/kubernetes/kubernetes-provider
